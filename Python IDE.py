@@ -3,6 +3,7 @@ from tkinter import ttk
 from tkinter.filedialog import asksaveasfilename, askopenfilename
 from tkinter.scrolledtext import ScrolledText
 import subprocess
+# Name: Harsh Upadhyay
 # create an instance for window
 window = Tk()
 # set title for window
